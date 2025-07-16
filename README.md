@@ -4,4 +4,4 @@ The anlysis uses Medicare Part D enrollment data from May 2015 and May 2025 to e
 
 To assess changes by geographic area, the analysis incorporates the Urban Influence Codes (UICs) released by the U.S. Department of Agriculture in 2013 and 2024. (https://www.ers.usda.gov/data-products/urban-influence-codes/documentation)
 
-The data story is published at: https://jinghongchen.com/2025/06/23/less-rural-areas-see-sharpest-fall-in-share-of-medicare-pdp-enrollment-since-2015/
+See the data story at: https://jinghongchen.com/2025/06/23/less-rural-areas-see-sharpest-fall-in-share-of-medicare-pdp-enrollment-since-2015/
